@@ -1,0 +1,197 @@
+*{
+     font-family: "Montserrat", sans-serif;
+     margin: 0%;
+     padding: 0%;
+     
+}
+
+header h1 {
+    font-weight: bold;
+}
+.btn{
+    border: none;
+    text-transform: uppercase;
+
+}
+
+.hero h2 {
+    font-size: 2.5rem;
+  
+   
+}
+.overlay{
+   
+    
+    color: white;
+    position: absolute;
+   
+  top: 40%; 
+  left: 16px; 
+  
+  font-size: 30px; 
+  text-align: left;
+}
+
+.hero p {
+    font-size: 1.2rem;
+   
+}
+
+.info-icons img {
+    width: 100px;
+    height: 100px;
+    
+}
+
+.info-icons p {
+    font-size: 1rem;
+}
+
+#home{
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+
+}
+#home::before{
+    content:"";
+    background-image: url(https://images.squarespace-cdn.com/content/v1/6291604274bc7d0c02445423/e793bafd-9d49-4283-8963-48df564cdd50/Vancouver-Naturopathic-Clinic-Clinic-Owners.jpg);
+    height: 80%;
+    width: 50%;
+    background-size: cover;
+    margin-top:20px ;
+    margin-left: 0px;
+    
+}
+.main{
+    
+    padding-top: 60px;
+    height:50px;
+    display: flex;
+    position: absolute;
+    margin-top: 10%;
+    left: 54.5%;
+   
+    
+    
+}
+.para{
+    color:rgb(43, 80, 62);
+    padding: 10px; 
+    display: flex;
+    position: absolute;
+    margin-top: 220px ;
+    left: 49%;
+    margin-left: 8%;
+    margin-right:5%;
+    font-size: 1.2rem;
+    
+    
+}
+.button{
+
+ padding: 10px; 
+    display: flex;
+    position: absolute;
+    margin-top: 320px ;
+    left: 46%;
+    margin-left: 8%;
+    margin-right:5%;
+    font-size: 1.2rem;
+    border: none;
+    text-transform: uppercase;
+    
+}
+
+
+
+
+
+#home2{
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+   
+    font-size: 1rem;
+    margin-left: 5%;
+   
+
+}
+
+#home2::before{
+    content:"";
+    background-image: url(https://images.squarespace-cdn.com/content/v1/6291604274bc7d0c02445423/ba711883-c748-4743-a156-466d1f35d7f1/Vancouver-Naturopathic-Clinic-Reception-Desk-Two-Women.jpg);
+    height: 80%;
+    
+    width: 54%;
+    background-size: cover;
+   
+   margin-left: 50%;
+    
+}
+
+.main2{
+    
+    padding-top: 20px;
+    height:50px;
+    display: flex;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 10%;
+    left:8%;
+   
+    
+    
+}
+.para2{
+    color:rgb(43, 80, 62);
+    padding: 10px; 
+    display: flex;
+    position: absolute;
+    margin-top: 200px ;
+    left: 6%;
+    margin-left: 5%;
+    margin-right:8%;
+    font-size: 1.2rem;
+    
+    
+}
+
+.button2{
+
+    padding: 10px; 
+       display: flex;
+       position: absolute;
+       margin-top: 350px ;
+       left:3%;
+       margin-left: 5%;
+       margin-right:5%;
+       font-size: 1.2rem;
+       border: none;
+       text-transform: uppercase;
+       
+   }
+
+   #home3{
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+
+}
+#home3::before{
+    content:"";
+    background-image: url(https://images.squarespace-cdn.com/content/v1/6291604274bc7d0c02445423/a7b4d0b0-cb97-4dad-80d3-6872b4bcd298/Vancouver-Naturopathic-Clinic-Hands-Creating-Tincture.jpg);
+    height: 80%;
+    width: 50%;
+    background-size: cover;
+    margin-top:20px ;
+    margin-left: 0px;
+    
+}
+
+
+
+
+
